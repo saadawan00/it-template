@@ -1,0 +1,284 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url(/static/fonts/icomoon.eot?uqw0eg);
+  src:  url(/static/fonts/icomoon.eot?uqw0eg#iefix) format('embedded-opentype'),
+    url(/static/fonts/icomoon.ttf?uqw0eg) format('truetype'),
+    url(/static/fonts/icomoon.woff?uqw0eg) format('woff'),
+    url(/static/fonts/icomoon.svg?uqw0eg#icomoon) format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="ico-"], [class*=" ico-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ico-architecture:before {
+    content: "\e940";
+}
+.ico-artist:before {
+    content: "\e941";
+}
+.ico-computer:before {
+    content: "\e942";
+}
+.ico-customer-service:before {
+    content: "\e943";
+}
+.ico-design-tool:before {
+    content: "\e944";
+}
+.ico-graffiti:before {
+    content: "\e945";
+}
+.ico-graphic-tool:before {
+    content: "\e946";
+}
+.ico-hotel:before {
+    content: "\e947";
+}
+.ico-intersection:before {
+    content: "\e948";
+}
+.ico-lawn-mowner:before {
+    content: "\e949";
+}
+.ico-manager:before {
+    content: "\e94a";
+}
+.ico-medal1:before {
+    content: "\e94b";
+}
+.ico-paint:before {
+    content: "\e94c";
+}
+.ico-paint-1:before {
+    content: "\e94d";
+}
+.ico-paint-brush:before {
+    content: "\e94e";
+}
+.ico-paint-brushes:before {
+    content: "\e94f";
+}
+.ico-paint-palette-and-brush:before {
+    content: "\e950";
+}
+.ico-paint-roller:before {
+    content: "\e951";
+}
+.ico-play-button1:before {
+    content: "\e952";
+}
+.ico-right-arrow-circular-button:before {
+    content: "\e953";
+}
+.ico-search-interface-symbol:before {
+    content: "\e954";
+}
+.ico-sun:before {
+    content: "\e955";
+}
+.ico-monitor:before {
+    content: "\e93d";
+}
+.ico-smartphone1:before {
+    content: "\e93e";
+}
+.ico-speech-bubble:before {
+    content: "\e93f";
+}
+.ico-family:before {
+    content: "\e92f";
+}
+.ico-swimming-pool:before {
+    content: "\e930";
+}
+.ico-swimming-pool-1:before {
+    content: "\e931";
+}
+.ico-swimming-pool-2:before {
+    content: "\e932";
+}
+.ico-trampoline:before {
+    content: "\e933";
+}
+.ico-crosscut:before {
+    content: "\e934";
+}
+.ico-brace:before {
+    content: "\e935";
+}
+.ico-saw:before {
+    content: "\e936";
+}
+.ico-university:before {
+    content: "\e937";
+}
+.ico-paper-plane:before {
+    content: "\e938";
+}
+.ico-help:before {
+    content: "\e939";
+}
+.ico-sketch:before {
+    content: "\e93a";
+}
+.ico-house:before {
+    content: "\e93b";
+}
+.ico-house-1:before {
+    content: "\e93c";
+}
+.ico-broken-house1:before {
+    content: "\e92a";
+}
+.ico-broken-roof:before {
+    content: "\e92b";
+}
+.ico-roof:before {
+    content: "\e92c";
+}
+.ico-roof-1:before {
+    content: "\e92d";
+}
+.ico-support1:before {
+    content: "\e92e";
+}
+.ico-air-conditioner:before {
+    content: "\e924";
+}
+.ico-cctv:before {
+    content: "\e925";
+}
+.ico-heater:before {
+    content: "\e926";
+}
+.ico-light-bulb1:before {
+    content: "\e927";
+}
+.ico-maintenance:before {
+    content: "\e928";
+}
+.ico-processor:before {
+    content: "\e929";
+}
+.ico-diploma:before {
+    content: "\e91e";
+}
+.ico-leak:before {
+    content: "\e91f";
+}
+.ico-left-arrow:before {
+    content: "\e920";
+}
+.ico-mechanic:before {
+    content: "\e921";
+}
+.ico-right-arrow:before {
+    content: "\e922";
+}
+.ico-tap:before {
+    content: "\e923";
+}
+.ico-broken-house:before {
+    content: "\e917";
+}
+.ico-build:before {
+    content: "\e918";
+}
+.ico-builder1:before {
+    content: "\e919";
+}
+.ico-carpenter1:before {
+    content: "\e91a";
+}
+.ico-light-bulb:before {
+    content: "\e91b";
+}
+.ico-next:before {
+    content: "\e91c";
+}
+.ico-plumbing:before {
+    content: "\e91d";
+}
+.ico-breakfast:before {
+    content: "\e900";
+}
+.ico-brickwall:before {
+    content: "\e901";
+}
+.ico-builder:before {
+    content: "\e902";
+}
+.ico-building:before {
+    content: "\e903";
+}
+.ico-carpenter:before {
+    content: "\e904";
+}
+.ico-clock:before {
+    content: "\e905";
+}
+.ico-company:before {
+    content: "\e906";
+}
+.ico-company-2:before {
+    content: "\e907";
+}
+.ico-garden:before {
+    content: "\e908";
+}
+.ico-mail:before {
+    content: "\e909";
+}
+.ico-medal:before {
+    content: "\e90a";
+}
+.ico-office-block:before {
+    content: "\e90b";
+}
+.ico-placeholder:before {
+    content: "\e90c";
+}
+.ico-placeholder-2:before {
+    content: "\e90d";
+}
+.ico-play-button:before {
+    content: "\e90e";
+}
+.ico-sketchbook:before {
+    content: "\e90f";
+}
+.ico-skyline:before {
+    content: "\e910";
+}
+.ico-smartphone:before {
+    content: "\e911";
+}
+.ico-support:before {
+    content: "\e912";
+}
+.ico-wallet:before {
+    content: "\e913";
+}
+.ico-website:before {
+    content: "\e914";
+}
+.ico-worker:before {
+    content: "\e915";
+}
+.ico-worldwide:before {
+    content: "\e916";
+}
